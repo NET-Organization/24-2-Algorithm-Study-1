@@ -1,1 +1,1 @@
-# 24-2-Algorithm-Study-1
+## 24-2-Algorithm-Study-1
