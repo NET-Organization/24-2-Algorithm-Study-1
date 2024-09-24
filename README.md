@@ -25,6 +25,6 @@
 
 넷 Notion의 '알고리즘 스터디 응용반1' 페이지는 [여기](https://www.notion.so/khunet/9a3ee44f4d2745deb6b377b5712d0704?p=bf994262a11b428eb097cdfb1152d2ad&pm=c)에서, 각 스터디원들의 과제 코드는 아래에서 확인하실 수 있습니다 :)
 
-* [박신후](https://github.com/tlsgnvkr/24-2-Algorithm-Study-1)
+* [박신후](https://github.com/tlsgnvkr/24-2-Algorithm-Study-1){:target="_blank"}
 * [김민아](https://github.com/minahkim03/ps)
 * [권민준](https://github.com/chocoMJ/ps)
