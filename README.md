@@ -23,4 +23,8 @@
 
 또한, 저희 스터디는 매주 5~6개 가량의 과제가 주어집니다. 과제로 나온 문제들의 풀이는 별도의 Github을 통해 공유하고 관리하는 시스템을 채택하여 함께 공부하고 있습니다.
 
-넷 Notion의 '알고리즘 스터디 응용반1' 페이지는 [여기](https://www.notion.so/khunet/9a3ee44f4d2745deb6b377b5712d0704?p=bf994262a11b428eb097cdfb1152d2ad&pm=c)에서, 스터디원들의 과제 코드는 [여기](https://github.com/24-2-NET-Algorithm-Study-1)에서 확인하실 수 있습니다 :)
+넷 Notion의 '알고리즘 스터디 응용반1' 페이지는 [여기](https://www.notion.so/khunet/9a3ee44f4d2745deb6b377b5712d0704?p=bf994262a11b428eb097cdfb1152d2ad&pm=c)에서, 각 스터디원들의 과제 코드는 아래에서 확인하실 수 있습니다 :)
+
+* [박신후](https://github.com/tlsgnvkr/24-2-Algorithm-Study-1)
+* [김민아](https://github.com/minahkim03/ps)
+* [권민준](https://github.com/chocoMJ/ps)
